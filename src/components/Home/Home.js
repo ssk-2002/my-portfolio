@@ -19,7 +19,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name" style={{fontFamily: "Alegreya, sans-serif", fontStyle:'italic'}}>
-                This is <strong className="main-name"> Salman Shaikh</strong>
+                This is <strong className="main-name"> Sallu Shaikh</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left", fontWeight: "bold", fontFamily: "Alegreya, sans-serif", fontSize: "20px" }}>
